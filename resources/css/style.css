@@ -24,6 +24,29 @@ div.header {
   color: white;
 }
 
-.process{
+.process {
   text-align: center;
+}
+
+.process h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.process h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.process p {
+  font-size: 14px;
+}
+
+.divider h3 {
+  background-image: url('../images/the-flatiron-building.png');
+  text-align: center;
+  
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
 }
