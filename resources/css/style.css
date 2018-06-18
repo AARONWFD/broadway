@@ -16,9 +16,14 @@ div.header {
 
 .header ul{
   list-style-type: none;
+  text-align: center;
 }
 
 .header a {
   font-size: 18px;
   color: white;
+}
+
+.process{
+  text-align: center;
 }
