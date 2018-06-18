@@ -67,3 +67,14 @@ div.header {
 .third_div  p {
   font-size: 14px;
 }
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+.footer a {
+  color: white;
+  font-size: 18px;
+}
